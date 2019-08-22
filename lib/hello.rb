@@ -18,5 +18,5 @@ hello_t(["Tim", "Tom", "Jim"]) do |name|
   end
 else
   return ("Hey! No block was given!\n")
- end
+end
 end
